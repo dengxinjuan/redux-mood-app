@@ -1,0 +1,16 @@
+.button {
+  display: block;
+  margin: 50px auto;
+}
+
+#mood {
+  text-align: center;
+  display: block;
+  margin: auto;
+  height: 100px;
+  width: 200px;
+}
+
+body {
+  text-align: center;
+}
